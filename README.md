@@ -1,2 +1,2 @@
 # FreeCodeCamp
-FCC Projects
+FCC Projects and tests
